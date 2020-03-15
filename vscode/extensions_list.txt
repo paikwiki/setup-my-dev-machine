@@ -13,7 +13,6 @@ stylelint.vscode-stylelint
 ecmel.vscode-html-css
 mechatroner.rainbow-csv
 CoenraadS.disableligatures
-EditorConfig.EditorConfig
 lihui.vs-color-picker
 msjsdiag.debugger-for-chrome
 patbenatar.advanced-new-file
