@@ -22,14 +22,14 @@
       }]
   },
   "window.zoomLevel": 1,
-  "code-eol.color": "#0b445a",
+  "code-eol.color": "#afe1f5",
   "C_Cpp.updateChannel": "Insiders",
   "markdown.extension.toc.githubCompatibility": true,
   "disableLigatures.mode": "Line",
   "explorer.openEditors.visible": 0,
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorCustomizations": {
-    "editorRuler.foreground": "#0b445a"
+    "editorRuler.foreground": "#afe1f5"
   },
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
@@ -41,7 +41,8 @@
     "editor.insertSpaces": true
   },
   "markdownlint.customRulesAlwaysAllow": [
-    "/Users/chPaik/codes/42cursus/til"
+    "/Users/chPaik/codes/42cursus/til",
+    "/Users/chpaik/codes/42cursus/til"
   ],
   "[js]": {
     "editor.wordWrap": "bounded",
