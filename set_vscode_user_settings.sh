@@ -5,7 +5,7 @@ DEFAULT='\033[0;0m'
 
 if [ -r userconfig.sh ]; then
 	sh ./userconfig.sh
-	if [ $dir_user_root2 ]; then
+	if [ $dir_user_root ]; then
 		dir_vscode_user="${dir_user_root}/Library/Application Support/Code/User"
 
 		cat "${dir_vscode_user}/settings.json" \
