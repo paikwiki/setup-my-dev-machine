@@ -1,12 +1,9 @@
 {
   "42header.username": "cbaek",
   "42header.email": "cbaek@student.42seoul.kr",
-  "workbench.colorTheme": "Monokai Dimmed",
   "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "Quiet Light",
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorCustomizations": {
-    "editorRuler.foreground": "#0b445a"
-  },
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.tabSize": 4,
@@ -15,28 +12,37 @@
   "editor.renderWhitespace": "all",
   "editor.wordWrap": "bounded",
   "editor.minimap.enabled": false,
+  "editor.fontFamily": "Cascadia Code PL, Space Mono, monospace, D2Coding for Powerline",
+  "editor.fontLigatures": true,
   "editor.tabCompletion": "onlySnippets",
-  "editor.fontFamily": "Space Mono, Menlo, monospace, D2Coding for Powerline",
   "editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
+    "textMateRules": [{
         "scope": "comment",
-        "settings": {
-          "fontStyle": "italic"
-        }
-      }
-    ]
+        "settings": { "fontStyle": "italic" }
+      }]
+  },
+  "window.zoomLevel": 1,
+  "code-eol.color": "#0b445a",
+  "C_Cpp.updateChannel": "Insiders",
+  "markdown.extension.toc.githubCompatibility": true,
+  "disableLigatures.mode": "Line",
+  "explorer.openEditors.visible": 0,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#0b445a"
   },
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
-  "window.zoomLevel": 1,
   "[markdown]": {
     "editor.wordWrap": "bounded",
     "editor.wordWrapColumn": 80,
     "editor.tabSize": 2,
     "editor.insertSpaces": true
   },
+  "markdownlint.customRulesAlwaysAllow": [
+    "/Users/chPaik/codes/42cursus/til"
+  ],
   "[js]": {
     "editor.wordWrap": "bounded",
     "editor.wordWrapColumn": 80,
@@ -49,15 +55,8 @@
     "editor.tabSize": 2,
     "editor.insertSpaces": true
   },
-  "code-eol.color":"#0b445a",
-  // TS
   "typescript.tsdk": "/usr/local/Cellar/typescript/3.2.2/libexec/lib/node_modules/typescript/lib",
   "phpformatter.composer": true,
   "eslint.alwaysShowStatus": true,
   "terminal.integrated.rendererType": "dom",
-  "explorer.openEditors.visible": 0,
-  "C_Cpp.updateChannel": "Insiders",
-  "markdownlint.customRulesAlwaysAllow": [
-    "/Users/chpaik/codes/42cusurs/til"
-  ]
 }
