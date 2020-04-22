@@ -12,7 +12,7 @@
   "editor.renderWhitespace": "all",
   "editor.wordWrap": "bounded",
   "editor.minimap.enabled": false,
-  "editor.fontFamily": "Cascadia Code PL, Space Mono, monospace, D2Coding for Powerline",
+  "editor.fontFamily": "Cascadia Code PL, Space Mono, monospace, DungGeunMo, D2Coding for Powerline",
   "editor.fontLigatures": true,
   "editor.tabCompletion": "onlySnippets",
   "editor.tokenColorCustomizations": {
@@ -21,15 +21,15 @@
         "settings": { "fontStyle": "italic" }
       }]
   },
-  "window.zoomLevel": 1,
-  "code-eol.color": "#afe1f5",
+  "window.zoomLevel": 2,
+  "code-eol.color": "#064057",
   "C_Cpp.updateChannel": "Insiders",
   "markdown.extension.toc.githubCompatibility": true,
   "disableLigatures.mode": "Line",
   "explorer.openEditors.visible": 0,
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorCustomizations": {
-    "editorRuler.foreground": "#afe1f5"
+    "editorRuler.foreground": "#064057"
   },
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
@@ -60,4 +60,6 @@
   "phpformatter.composer": true,
   "eslint.alwaysShowStatus": true,
   "terminal.integrated.rendererType": "dom",
+  "git.autofetch": true,
+  "vsicons.dontShowNewVersionMessage": true,
 }
