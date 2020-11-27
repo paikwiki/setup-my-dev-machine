@@ -1,19 +1,17 @@
 {
   "42header.username": "cbaek",
   "42header.email": "cbaek@student.42seoul.kr",
-  "workbench.colorTheme": "Kimbie Dark",
+  "workbench.colorTheme": "Visual Studio Dark",
   "workbench.startupEditor": "newUntitledFile",
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.tabSize": 4,
   "editor.insertSpaces": false,
-  "editor.rulers": [
-    80
-  ],
+  "editor.rulers": [80],
   "editor.renderWhitespace": "all",
   "editor.wordWrap": "bounded",
   "editor.minimap.enabled": false,
-  "editor.fontFamily": "Cascadia Code PL, Space Mono, monospace, DungGeunMo, D2Coding for Powerline",
+  "editor.fontFamily": "Cascadia Code PL, Space Mono, monospace, D2Coding for Powerline",
   "editor.fontLigatures": true,
   "editor.tabCompletion": "onlySnippets",
   "editor.tokenColorCustomizations": {
@@ -29,16 +27,16 @@
   "window.zoomLevel": 2,
   "code-eol.color": "#064057",
   "C_Cpp.updateChannel": "Insiders",
-  "markdown.extension.toc.githubCompatibility": true,
   "disableLigatures.mode": "Line",
   "explorer.openEditors.visible": 0,
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorCustomizations": {
-    "editorRuler.foreground": "#064057",
+    "editorRuler.foreground": "#064057"
   },
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
+  "gitlens.currentLine.enabled": true,
   "[markdown]": {
     "editor.wordWrap": "bounded",
     "editor.wordWrapColumn": 80,
@@ -75,5 +73,6 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.formatOnSave": true,
+  "markdown.extension.toc.githubCompatibility": true,
+  "editor.largeFileOptimizations": false
 }
